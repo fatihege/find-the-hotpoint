@@ -1,5 +1,5 @@
 addEventListener('load', e => {
-    const DEFAULT_GAME_MODE = 2
+    const DEFAULT_GAME_MODE = 3
     const GAME_MODES = {
         1: 'baby',
         2: 'easy',
